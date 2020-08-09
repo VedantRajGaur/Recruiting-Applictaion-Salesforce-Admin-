@@ -1,1 +1,1 @@
-# Recruiting-Applictaion-Salesforce-Admin-
+# Recruiting-Application-Salesforce-Admin-
